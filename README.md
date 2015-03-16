@@ -5,6 +5,6 @@ $ npm install
 $ echo "title Foo
 A->B: bar
 B-->A: baz" > foo.diag
-$ node seqdiag.js foo.diag foo.png
+$ node seqdiag.js napkin foo.diag foo.png
 $ open foo.png
 ```
