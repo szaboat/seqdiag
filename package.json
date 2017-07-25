@@ -8,7 +8,7 @@
   },
   "author": "attila.szabo@gmail.com",
   "dependencies": {
-    "websequencediagrams": "0.0.2"
+    "websequencediagrams": "0.1.0"
   },
   "license": "BSD-2-Clause"
 }
